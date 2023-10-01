@@ -2,6 +2,14 @@
 
 Definition for the spellcheck service for AWider.NET's [mutual aid project](https://github.com/AWiderDotNET/mutual-aid).
 
+## When Does This Service Make Sense?
+
+This service is a good fit for you to request if:
+
+* You have documentation of any kind stored in non-HTML (e.g. Markdown or similar)
+* You'd like those docs to be spell-checked
+* (Ideally) you'd like a process to be in place to spell-check those docs going forward (that way errors don't creep in)
+
 ## How Can I Request This Service for My Repository?
 
 Open an issue at <https://github.com/AWiderDotNET/mutual-aid> to request a service.
