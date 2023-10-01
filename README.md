@@ -8,7 +8,7 @@ This service is a good fit for you to request if:
 
 * You have documentation of any kind stored in non-HTML (e.g. Markdown or similar)
 * You'd like those docs to be spell-checked
-* (Ideally) you'd like a process to be in place to spell-check those docs going forward (that way errors don't creep in)
+* (Ideally) you'd like a process to be in place to spell-check those docs going forward (so that errors don't creep back in)
 
 ## How Can I Request This Service for My Repository?
 
