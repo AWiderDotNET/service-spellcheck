@@ -6,10 +6,14 @@ Definition for the spellcheck service for AWider.NET's [mutual aid project](http
 
 Open an issue at <https://github.com/AWiderDotNET/mutual-aid> to request a service.
 
-## How Can I Help Someone Achieve This?
+## How Can I Help Implement This?
 
 See the [Implementation Guide](ImplementationGuide.md) for notes on the process.
 
 ## Where Has This Been Implemented Before?
 
 See [past requests for this service](https://github.com/AWiderDotNET/mutual-aid/labels/service%3Aspellcheck).
+
+## I Have a Suggestion for How to Improve This Service
+
+Awesome! Create an issue in this repository so we can discuss.
