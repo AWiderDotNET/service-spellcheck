@@ -119,9 +119,9 @@ A quick break-down on this:
 
 We believe in creating pull requests as early as possible so that we can use them as a running journal of small commits and thoughts that we leave in the form of comments on the pull request. This serves a few functions:
 
-* If someone isn't interested in my contribution, they can tell me and save us both a bunch of time.
+* If someone isn't interested in the contribution, they can tell us and save us both a bunch of time.
 * If someone has questions, they can ask them along the way.
-* They can see individual commits and what my reasoning is behind a change.
+* They can see individual commits and what our reasoning is behind a change.
 * You can link the pull request to the issue in the [mutual aid repository](https://github.com/AWiderDotNET/mutual-aid), linking your work to the issue itself so that we can see what happened.
 
 ## Running cSpell
@@ -153,7 +153,7 @@ cSpell findings typically fell into a few categories:
 
 Spelling and word choice is a personal thing. We take the position that as long as the maintainers are making a choice consciously and consistently, it isn't "wrong". And any spell-check systems should adapt to that. Any push-back I have on maintainer preferences is minimal. It's not about correcting someone; it's about being helpful.
 
-* We do a self-review on my PR on GitHub
+* We do a self-review on the PR on GitHub
 * We call attention to things that the maintainers may want to weigh in about
 * We explicitly ask for feedback and adapt to it.
 
