@@ -5,3 +5,7 @@ Definition for the spellcheck service for AWider.NET's [mutual aid project](http
 ## How Can I Request This Service for My Repository?
 
 Open an issue at <https://github.com/AWiderDotNET/mutual-aid> to request a service.
+
+## How Can I Help Someone Achieve This?
+
+See the [Implementation Guide](ImplementationGuide.md) for notes on the process.
