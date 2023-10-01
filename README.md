@@ -9,3 +9,7 @@ Open an issue at <https://github.com/AWiderDotNET/mutual-aid> to request a servi
 ## How Can I Help Someone Achieve This?
 
 See the [Implementation Guide](ImplementationGuide.md) for notes on the process.
+
+## Where Has This Been Implemented Before?
+
+See [past requests for this service](https://github.com/AWiderDotNET/mutual-aid/labels/service%3Aspellcheck).
