@@ -22,6 +22,10 @@ See the [Implementation Guide](ImplementationGuide.md) for notes on the process.
 
 See [past requests for this service](https://github.com/AWiderDotNET/mutual-aid/labels/service%3Aspellcheck).
 
+## Somebody Helped Me With This Before, and I Need More Help / Have an Issue
+
+Open an issue at <https://github.com/AWiderDotNET/mutual-aid> to request help.
+
 ## I Have a Suggestion for How to Improve This Service
 
 Awesome! Create an issue in this repository so we can discuss.
