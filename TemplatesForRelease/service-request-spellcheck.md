@@ -1,7 +1,7 @@
 ---
 name: "Mutual Aid: Service Request: Spellcheck"
 about: "Request Automation of Spellcheck in your OSS repository"
-title: "Service Request: Spellcheck"
+title: "Service Request: Spellcheck (TODO: org/repo)"
 labels: "service:spellcheck"
 ---
 
