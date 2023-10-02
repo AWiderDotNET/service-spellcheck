@@ -5,7 +5,7 @@ title: "Service Request: Spellcheck"
 labels: "service:spellcheck"
 ---
 
-# Service Requeest: Spellcheck Automation
+# Service Request: Spellcheck Automation
 
 ## Prerequisites
 
@@ -30,7 +30,7 @@ ___
 <!-- PLEASE DON'T EDIT BELOW THIS LINE -->
 <!-- --------------------------------- -->
 
-## For Implementors or Would-be Implementors
+## For Implementers or Would-be Implementers
 
 * [ ] Implement according to the [implementation guide](https://github.com/AWiderDotNET/service-spellcheck/blob/main/ImplementationGuide.md)
 * [ ] Paste the PR link in the description or comments here
